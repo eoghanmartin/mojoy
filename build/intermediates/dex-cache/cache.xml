@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/eoghanmartin/AndroidStudioProjects/Eoghan Stuff/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-106d6264ce500c7b09492eda65fdfd20c3d177ee.jar"
+        jar="/Users/eoghanmartin/AndroidStudioProjects/Eoghan Stuff/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="/Users/eoghanmartin/AndroidStudioProjects/Eoghan Stuff/app/build/intermediates/pre-dexed/debug/classes-2c1b71e931a4d71cc9ce334901377e425cd5590e.jar"
+        jar="/Users/eoghanmartin/AndroidStudioProjects/Eoghan Stuff/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="/Users/eoghanmartin/AndroidStudioProjects/Eoghan Stuff/app/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-bca9cd8c8082330ef7549e0398af852faae531fd.jar"
+        jar="/Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+
+</pre-dex-items>
